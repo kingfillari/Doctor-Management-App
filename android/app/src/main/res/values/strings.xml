@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">DoctorManagementApp</string>
+    <string name="title_activity_main">DoctorManagementApp</string>
+    <string name="package_name">com.kingfillari.doctormanagement</string>
+    <string name="custom_url_scheme">com.kingfillari.doctormanagement</string>
+</resources>
