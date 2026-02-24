@@ -1,8 +1,9 @@
+```
 # Doctor Management App
 
 ## Overview
 The **Doctor Management App** is a simple CRUD application built with **Vue.js**.  
-It allows users to **Add, View, Edit, and Delete doctors**. Designed to be **mobile-friendly**, it uses JavaScript, HTML, and CSS.  
+It allows users to **Add, View, Edit, and Delete doctors**. Designed to be **mobile-friendly**, it uses vue,JavaScript, HTML, and CSS.  
 
 This project is beginner-friendly and can later be converted into a **mobile app using Capacitor** or connected to a **NestJS backend**.
 
